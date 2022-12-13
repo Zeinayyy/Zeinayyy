@@ -1,0 +1,2 @@
+pendeteksian lingkaran menggunakan opencv2 dan circular hough transform, dan hasilnya adalah opencv mendeteksi 3 lingkaran di gambar mangga sedangkan di mangga tersebut ada 4 dan 
+sebelumnya saya menggunakan medianblur tetapi hasilnya kacau, jadi saya coba untuk menggunakan gaussianblur dan hasilnya lumayan 
